@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fmf_admin_react/static/css/main.b55364cd.css",
+    "main.js": "/fmf_admin_react/static/js/main.a2271acf.js",
+    "static/media/Studyhox.png": "/fmf_admin_react/static/media/Studyhox.a69307e60e112fb856ad.png",
+    "index.html": "/fmf_admin_react/index.html",
+    "main.b55364cd.css.map": "/fmf_admin_react/static/css/main.b55364cd.css.map",
+    "main.a2271acf.js.map": "/fmf_admin_react/static/js/main.a2271acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55364cd.css",
+    "static/js/main.a2271acf.js"
+  ]
+}
